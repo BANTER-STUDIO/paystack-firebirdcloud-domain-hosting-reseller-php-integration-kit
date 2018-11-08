@@ -1,5 +1,5 @@
 # Paystack FirebirdCloud Domain and Hosting Reseller PHP Integration Kit
-Paystack's PHP payment gateway integration kit for FirebirdCloud's white-labelled domain and hosting reseller platform. Become the "Domain and Hosting reseller" with Nigeria's leading domain and hosting reseller. Get your web hosting business started instantly at no cost and using this Paystack PHP payment gateway integration kit.
+Get your domain and web hosting reseller business started instantly at no cost and accept payment using this Paystack PHP payment gateway integration kit. Become the "Domain and Hosting Reseller" with Nigeria's leading white label domain and web hosting reseller platform.
 
 ## Prerequisite
 - Before you can use this script, you will need to have an FirebirdCloud Domain and Hosting reseller account. Create a free account now if you haven't already done so: https://firebirdcloud/reseller.php?action=partnersite
